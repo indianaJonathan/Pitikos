@@ -1,0 +1,34 @@
+body {
+  background: #eee;
+  font-family: Calibri;
+  height: 100vh;
+}
+
+.menu {
+  background-color: #aaa;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  background-color: #aaa;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ccc;
+  font-weight: bold;
+}
+.site-subtitle,
+.site-title {
+  color: #555;
+  text-align: center;
+}
